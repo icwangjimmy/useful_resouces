@@ -15,3 +15,7 @@ collect useful resources for my research and development
 
 # Cluster
 - [Cluster in R examples](https://www.datanovia.com/en/blog/types-of-clustering-methods-overview-and-quick-start-r-code/#model-based-clustering)
+
+
+# Data Science Examples
+- [TrafficCruising-DSSG2017](https://github.com/uwescience/TrafficCruising-DSSG2017)
