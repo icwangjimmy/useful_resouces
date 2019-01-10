@@ -22,5 +22,9 @@ collect useful resources for my research and development
 - [How to Build a Data Science Portfolio](https://www.kdnuggets.com/2018/07/build-data-science-portfolio.html)
 - [TrafficCruising-DSSG2017](https://github.com/uwescience/TrafficCruising-DSSG2017)
 
+# R Tutorials
+- [Learning Statistics in R](https://ademos.people.uic.edu/index.html)
+
+
 # Misc
 - [Tech Resources from James Lavin](https://github.com/JamesLavin/my_tech_resources/blob/master/README.markdown)
