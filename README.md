@@ -25,7 +25,10 @@ collect useful resources for my research and development
 # R Tutorials
 - [Learning Statistics in R](https://ademos.people.uic.edu/index.html)
 
-# Machine Learning
+# Machine Learning Tutorials
+- [Top 10 free online courses for AI and Data Science](https://www.kaggle.com/general/69415#post410826)
+
+# Machine Learning Tips
 - [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
 
 # Misc
