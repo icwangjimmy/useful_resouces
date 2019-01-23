@@ -13,10 +13,8 @@ collect useful resources for my research and development
 - [Plotly User Guide in Python](https://plot.ly/python/user-guide/)
 - [GGPlot Cheat Sheet for Great Customization](http://www.sthda.com/english/articles/32-r-graphics-essentials/125-ggplot-cheat-sheet-for-great-customization/#at_pco=smlwn-1.0&at_si=5bdc5ce9b908e336&at_ab=per-2&at_pos=0&at_tot=1)
 
-
 # Cluster
 - [Cluster in R examples](https://www.datanovia.com/en/blog/types-of-clustering-methods-overview-and-quick-start-r-code/#model-based-clustering)
-
 
 # Data Science Examples
 - [How to Build a Data Science Portfolio](https://www.kdnuggets.com/2018/07/build-data-science-portfolio.html)
@@ -27,9 +25,14 @@ collect useful resources for my research and development
 
 # Machine Learning Tutorials
 - [Top 10 free online courses for AI and Data Science](https://www.kaggle.com/general/69415#post410826)
+- [Advance-Machine-Learning](https://github.com/mervynlee94/Advance-Machine-Learning)
+- [Deep-Learning-Coursera-Code-Reference](https://github.com/enggen/Deep-Learning-Coursera)
 
 # Machine Learning Tips
 - [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
+
+# Interview Tips
+- [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
 
 # Misc
 - [Tech Resources from James Lavin](https://github.com/JamesLavin/my_tech_resources/blob/master/README.markdown)
