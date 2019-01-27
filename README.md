@@ -16,6 +16,7 @@ collect useful resources for my research and development
 - [Advance-Machine-Learning](https://github.com/mervynlee94/Advance-Machine-Learning)
 - [Deep-Learning-Coursera-Code-Reference](https://github.com/enggen/Deep-Learning-Coursera)
 - [Cluster in R examples](https://www.datanovia.com/en/blog/types-of-clustering-methods-overview-and-quick-start-r-code/#model-based-clustering)
+- [data-science-and-machine-learning-cheatsheets](https://www.kaggle.com/arunkumarramanan/data-science-and-machine-learning-cheatsheets)
 
 # Machine Learning Tips
 - [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
