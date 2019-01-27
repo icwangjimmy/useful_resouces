@@ -27,6 +27,7 @@ collect useful resources for my research and development
 
 # Interview Tips
 - [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
+- [120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
 
 # Misc
 - [Tech Resources from James Lavin](https://github.com/JamesLavin/my_tech_resources/blob/master/README.markdown)
