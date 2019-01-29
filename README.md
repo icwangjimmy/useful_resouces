@@ -1,6 +1,9 @@
 # useful_resouces
 collect useful resources for my research and development
 
+# Database
+- [modeanalytics-a place to practice SQL](https://modeanalytics.com)
+
 # Math
 - [Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
