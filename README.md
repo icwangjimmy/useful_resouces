@@ -28,6 +28,7 @@ collect useful resources for my research and development
 # Data Science Examples
 - [How to Build a Data Science Portfolio](https://www.kdnuggets.com/2018/07/build-data-science-portfolio.html)
 - [TrafficCruising-DSSG2017](https://github.com/uwescience/TrafficCruising-DSSG2017)
+- [Winning solutions of kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions?utm_medium=email&utm_source=mailchimp&utm_campaign=datanotes-20180726)
 
 # Interview Tips
 - [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
