@@ -21,6 +21,7 @@ collect useful resources for my research and development
 - [Deep-Learning-Coursera-Code-Reference](https://github.com/enggen/Deep-Learning-Coursera)
 - [Cluster in R examples](https://www.datanovia.com/en/blog/types-of-clustering-methods-overview-and-quick-start-r-code/#model-based-clustering)
 - [data-science-and-machine-learning-cheatsheets](https://www.kaggle.com/arunkumarramanan/data-science-and-machine-learning-cheatsheets)
+- [Machine Learning Using Python-MEAFA Professional Development Workshop](http://www.marcelscharth.com/ml/#resources)
 
 # Machine Learning Tips
 - [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
