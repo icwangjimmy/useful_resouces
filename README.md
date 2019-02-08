@@ -44,3 +44,5 @@ collect useful resources for my research and development
 - [Markdown-RPI](https://rpi-analytics.github.io/Markdown-RPI/)
 - [Jupyter Notebook Users Manual](https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [machinelearningmastery](https://machinelearningmastery.com/)
+
