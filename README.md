@@ -28,6 +28,7 @@ collect useful resources for my research and development
 
 # Machine Learning Tips
 - [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
+- [complete-guide-parameter-tuning-xgboost-with-codes-python](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
 # Data Science Examples
 - [How to Build a Data Science Portfolio](https://www.kdnuggets.com/2018/07/build-data-science-portfolio.html)
