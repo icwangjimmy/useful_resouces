@@ -17,6 +17,7 @@ collect useful resources for my research and development
 - [Plotly User Guide in Python](https://plot.ly/python/user-guide/)
 - [GGPlot Cheat Sheet for Great Customization](http://www.sthda.com/english/articles/32-r-graphics-essentials/125-ggplot-cheat-sheet-for-great-customization/#at_pco=smlwn-1.0&at_si=5bdc5ce9b908e336&at_ab=per-2&at_pos=0&at_tot=1)
 - [tableau dashboard starter](https://www.tableau.com/products/dashboard-starters-downloads)
+- [tableau training for beginner from Simplilearn](https://www.youtube.com/watch?v=fO7g0pnWaRA)
 
 # Machine Learning Tutorials
 - [Top 10 free online courses for AI and Data Science](https://www.kaggle.com/general/69415#post410826)
