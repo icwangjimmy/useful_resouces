@@ -48,4 +48,4 @@ collect useful resources for my research and development
 - [Jupyter Notebook Users Manual](https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [machinelearningmastery](https://machinelearningmastery.com/)
-
+- [bloomberg-terminal-step-step](https://www.investopedia.com/articles/active-trading/121114/bloomberg-terminal-step-step.asp)
