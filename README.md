@@ -42,6 +42,9 @@ collect useful resources for my research and development
 - [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
 - [120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
 
+# Places to Practice
+- [jdoodle](https://www.jdoodle.com)
+
 # Misc
 - [Tech Resources from James Lavin](https://github.com/JamesLavin/my_tech_resources/blob/master/README.markdown)
 - [Markdown-RPI](https://rpi-analytics.github.io/Markdown-RPI/)
@@ -49,3 +52,5 @@ collect useful resources for my research and development
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [machinelearningmastery](https://machinelearningmastery.com/)
 - [bloomberg-terminal-step-step](https://www.investopedia.com/articles/active-trading/121114/bloomberg-terminal-step-step.asp)
+
+
