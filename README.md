@@ -12,6 +12,7 @@ collect useful resources for my research and development
 
 # Python Tutorials
 - [Beginner Guide for Non Programmer](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+- [Python-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
 
 # Data Visualization
 - [Plotly User Guide in Python](https://plot.ly/python/user-guide/)
