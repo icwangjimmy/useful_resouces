@@ -13,6 +13,7 @@ collect useful resources for my research and development
 # Python Tutorials
 - [Beginner Guide for Non Programmer](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 - [Python-Data-Structures-and-Algorithms](https://github.com/PacktPublishing/Python-Data-Structures-and-Algorithms)
+- [hackerrank-interview-preparation-kit](https://github.com/lzakharov/hackerrank-interview-preparation-kit/)
 
 # Data Visualization
 - [Plotly User Guide in Python](https://plot.ly/python/user-guide/)
