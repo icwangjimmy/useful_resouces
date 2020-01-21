@@ -54,5 +54,5 @@ collect useful resources for my research and development
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [machinelearningmastery](https://machinelearningmastery.com/)
 - [bloomberg-terminal-step-step](https://www.investopedia.com/articles/active-trading/121114/bloomberg-terminal-step-step.asp)
-
+- [GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop#step-5-set-up-a-text-editor)
 
